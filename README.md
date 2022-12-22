@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @N00R95
 - 👀 I’m interested in Front-end web development.
-- 🌱 I’m currently learning HTML/CSS/JS ...
+- 🌱 I’m currently learning React /Django...
 - 💞️ I’m looking to collaborate on so many projects.
 - 📫 How to reach me well you can't for now
 
