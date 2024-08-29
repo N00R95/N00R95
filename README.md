@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @N00R95
 - 👀 I’m interested in Front-end web development.
-- 🌱 I’m currently learning React /Django...
+- 🌱 I’m currently learning React /Node.js and cloud computing...
 - 💞️ I’m looking to collaborate on so many projects.
 - 📫 How to reach me heres my linkedin:https://www.linkedin.com/in/nour-aljasim-567577108
 
