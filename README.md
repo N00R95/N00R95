@@ -1,4 +1,4 @@
-**👋 Hi there! I'm Nour Aljasim**
+## **👋 Hi there! I'm Nour Aljasim**
 
 Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a strong focus on **Front-end web development**. I love building interactive and user-friendly web applications that make a difference.
 
